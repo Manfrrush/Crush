@@ -1,0 +1,32 @@
+*{
+    margin:0% ;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    backdrop-filter: blur(10px) ;
+    background-color: rgb(238, 128, 220);
+    background-image: url(Imagens/red-heart-background-png.webp);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    border: solid;
+    background-color: rgb(217, 109, 221);
+    padding: 30px 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(255, 14, 126, 0.1);
+    width: 500px;
+    text-align: center;
+}
+h1{
+    color: rgb(137, 57, 218);
+    margin-bottom: 20px;
+}
+form{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
