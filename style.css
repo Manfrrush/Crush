@@ -24,6 +24,8 @@ body{
 h1{
     color: rgb(137, 57, 218);
     margin-bottom: 20px;
+    
+    
 }
 form{
     display: flex;
